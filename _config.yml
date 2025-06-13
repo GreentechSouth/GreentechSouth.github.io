@@ -1,14 +1,8 @@
 title: GreenTech South
-description: A Cleantech Innovation Cluster powering Green Growth
-
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
+description: Cleantech Innovation Cluster
+theme: minimal-mistakes-jekyll
+url: "" 
+baseurl: ""
 plugins:
-  - jekyll-include-cache
-
-header:
-  overlay_image: /assets/images/banner-placeholder.jpg
-  overlay_filter: "0.2"
-  caption: "Empowering the South’s Green Economy"
-
-logo: /assets/images/greentechsouth-logo.png
+  - jekyll-feed
+  - jekyll-seo-tag

@@ -1,50 +1,48 @@
 ---
-layout: single
-title: "A Cleantech Innovation Cluster powering Green Growth"
-classes: wide
-header:
-  overlay_image: /assets/images/banner.jpg
-  overlay_filter: "0.2"
-  caption: "Empowering the South’s Green Economy"
+layout: home
+title: "GreenTech South"
 ---
 
-<div style="text-align: center;">
-  <p><strong>Greentech South</strong> is a dynamic cleantech cluster accelerating innovation and sustainability across the South of England.</p>
-  <blockquote>“GreenTech South empowers real change by uniting innovation with action.” – David Hutchinson, Director</blockquote>
-</div>
+![Banner](/assets/images/banner.jpg)
+
+# A Cleantech Innovation Cluster powering Green Growth
+
+## Mission
+GreenTech South is the South’s Cleantech Innovation Cluster, accelerating the commercialisation of clean growth innovations. We support cleantech companies to scale up, collaborate and drive the green transition.
+
+## Impact
+- Over 1,200 businesses supported
+- £1.9M secured in innovation funding
+- 52 Clean Growth Advocates
+- 5 Innovation Pilots
+- 2 International Cluster Networks
+
+## “Our cluster is the engine room for low-carbon innovation in the South.”  
+*— Cluster Member*
 
 ---
 
-## What’s on Offer
+## What we offer
 
-<div class="feature__wrapper">
-
-<div class="feature__item">
-  <h3>Net Zero 360</h3>
-  <p>Full-spectrum support for your net-zero journey.</p>
-</div>
-
-<div class="feature__item">
-  <h3>Innovation Accelerator</h3>
-  <p>Expert-led support to help you scale your ideas.</p>
-</div>
-
-<div class="feature__item">
-  <h3>Funding Guidance</h3>
-  <p>Help with applications, networks, and partners.</p>
-</div>
-
-<div class="feature__item">
-  <h3>Workshops & Events</h3>
-  <p>Get connected, inspired, and supported locally.</p>
-</div>
-
+<div class="features-grid">
+  <div><img src="https://static1.squarespace.com/static/63e39f2b05a0c3055eae102b/t/643679ac10d3bc2f5e00f34c/1681290925064/NZ360.jpg" alt="Net Zero 360"/><p>Net Zero 360</p></div>
+  <div><img src="https://static1.squarespace.com/static/63e39f2b05a0c3055eae102b/t/64367a1efc14f81e6cc3631c/1681291039579/Accelerator.png" alt="Accelerator"/><p>Accelerator</p></div>
+  <div><img src="https://static1.squarespace.com/static/63e39f2b05a0c3055eae102b/t/64367a2cf252135c28ccf120/1681291053766/funding.png" alt="Funding"/><p>Innovation Funding</p></div>
+  <div><img src="https://static1.squarespace.com/static/63e39f2b05a0c3055eae102b/t/64367a3b5cbbda423e2a3dfb/1681291068121/workshops.png" alt="Workshops"/><p>Events & Workshops</p></div>
 </div>
 
 ---
 
-## Part of a National and International Network
+## Our Partners
 
-Greentech South is part of [Clean Growth UK](https://www.clean-growth.uk/) and a proud member of the [International Cleantech Network](https://internationalcleantechnetwork.com/).
+### Clean Growth UK
 
-[Explore our events →](events.html)
+[![CGUK](/assets/images/CGUK.png)](https://www.clean-growth.uk/)
+
+Clean Growth UK helps innovative UK businesses commercialise clean and green products, processes and services.
+
+### International Cleantech Network
+
+[![ICN](/assets/images/ICN.png)](https://internationalcleantechnetwork.com/)
+
+We are part of ICN, the global leading network of cleantech clusters.

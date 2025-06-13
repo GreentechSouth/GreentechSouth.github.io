@@ -1,0 +1,14 @@
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+  text-align: center;
+}
+.features-grid img {
+  width: 100px;
+  height: auto;
+}
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+}
