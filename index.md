@@ -3,7 +3,7 @@ layout: single
 title: "A Cleantech Innovation Cluster powering Green Growth"
 classes: wide
 header:
-  overlay_image: /assets/images/banner-placeholder.jpg
+  overlay_image: /assets/images/banner.jpg
   overlay_filter: "0.2"
   caption: "Empowering the South’s Green Economy"
 ---
