@@ -1,0 +1,10 @@
+title: GreenTech South
+logo: /assets/images/greentechsouth-logo.png
+description: A Cleantech Innovation Cluster powering Green Growth
+baseurl: ""
+url: "https://greentechsouth.github.io"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
