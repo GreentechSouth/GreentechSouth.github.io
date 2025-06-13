@@ -5,3 +5,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-include-cache
+
+header:
+  overlay_image: /assets/images/banner-placeholder.jpg
+  overlay_filter: "0.2"
+  caption: "Empowering the South’s Green Economy"
+
+logo: /assets/images/greentechsouth-logo.png
