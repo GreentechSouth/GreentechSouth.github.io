@@ -10,41 +10,40 @@ header:
 
 ## Our mission
 
-GreenTech South is the South's cleantech innovation cluster, accelerating the commercialisation of clean growth innovations. We support cleantech companies to scale up, collaborate and drive the green transition.
+Greentech South is a dynamic cleantech cluster based in the South of England, established to accelerate the growth of low-carbon technologies and sustainable innovation. Through collaboration with businesses, universities, and local government, Greentech South supports research, development, and commercialisation of green technologies, fostering economic growth and environmental sustainability in the region. Our initiatives span energy efficiency, renewable energy, resource management (including water), circular economy and clean growth, offering a platform for networking, funding, and expertise to drive impactful, low-carbon solutions in both local and global markets.
+
+---
+
+## Our impact
+
+Read about highlights from two recent projects that delivered support for SMEs and the low carbon economy
+
+> “GreenTech South empowers real change by uniting innovation with action, driving us toward a cleaner, sustainable future.”  
+> — David Hutchinson, Director
+
+---
+
+## A national network
+
+We are a founder of Clean Growth UK. From net zero plans to product redesigns and business model reboots, we can help make your sustainability ideas happen.
 
 ---
 
 ## What’s on offer?
 
 <div class="features-grid">
-  <div><img src="/assets/images/NZ360.jpg" alt="Net Zero 360"/><p><strong>Net Zero 360</strong><br/>Take your first steps on the journey to Net Zero with workshops and carbon foot-printing support.</p></div>
-  <div><img src="/assets/images/Accelerator.png" alt="Innovation Accelerator"/><p><strong>Innovation Accelerator</strong><br/>Expert 1-2-1 support for commercialising new products and services.</p></div>
-  <div><img src="/assets/images/funding.png" alt="Funding"/><p><strong>Funding</strong><br/>Support identifying and securing funding for innovation.</p></div>
-  <div><img src="/assets/images/workshops.png" alt="Workshops"/><p><strong>Workshops & Events</strong><br/>Events designed to build capability and connect innovators.</p></div>
+  <div><img src="/assets/images/NZ360.jpg" alt="Net Zero 360"/><p><strong>Net Zero 360</strong><br/>Deep-dive workshops help you understand and measure your carbon footprint. Access our carbon calculator and university support to help decarbonise your business.</p></div>
+  <div><img src="/assets/images/Accelerator.png" alt="Innovation Accelerator"/><p><strong>Innovation Accelerator</strong><br/>Got an idea that needs to happen? We'll work with you to identify the right university expertise and resources to take it forward.</p></div>
+  <div><img src="/assets/images/funding.png" alt="Funding"/><p><strong>Funding</strong><br/>Support identifying and applying for grant funding and investment, including our regularly-updated innovation grant finder tool.</p></div>
+  <div><img src="/assets/images/workshops.png" alt="Workshops"/><p><strong>Workshops</strong><br/>Regular workshops on how to source funding for sustainability projects and how to create high-impact communications around your sustainability strategy.</p></div>
 </div>
 
----
-
-## Clean Growth UK
-
-[![Clean Growth UK](/assets/images/CGUK.png)](https://www.clean-growth.uk/)  
-We are the South Central regional hub of Clean Growth UK — a national network of cleantech innovators.
+Just click through to find out more and get that support you need to take the next step on your journey.
 
 ---
 
-## International Cleantech Network
+## The International Cleantech Network
 
-[![ICN](/assets/images/ICN.png)](https://internationalcleantechnetwork.com/)  
-We are part of the International Cleantech Network, giving our members access to global opportunities.
+We are proud members of the International Cleantech Network (ICN). An exclusive network of cleantech clusters in the world’s leading cleantech regions, aiming to generate new business opportunities, enhance competitive advantages and create value for companies, knowledge institutions, and local authorities across cluster regions.
 
----
-
-## Our story
-
-We’ve supported over 1,200 businesses, helped secure £1.9m of innovation funding, trained 52 Clean Growth Advocates, supported five innovation pilots and developed two international cluster partnerships. We’re proud to be a key part of the UK’s clean growth ecosystem.
-
----
-
-<center>
-<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/44e47e4f-7f9c-4eb5-9a9c-c7b4b927e294?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
-</center>
+Click through to find out more about the international opportunities with ICN that can be accessed via Greentech South.
